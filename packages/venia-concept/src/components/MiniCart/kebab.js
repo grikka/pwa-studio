@@ -13,7 +13,7 @@ class Kebab extends Component {
             <div {...restProps} className={classes.root}>
                 <button className={classes.kebab}>
                     <Icon
-                        name="more-vertical"
+                        name="MoreVertical"
                         attrs={{ color: 'rgb(var(--venia-teal))' }}
                     />
                 </button>
